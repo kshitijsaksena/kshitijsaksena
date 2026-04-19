@@ -8,11 +8,9 @@ With deep expertise in backend engineering and cloud infrastructure, I specializ
 
 ## 💼 Professional Focus
 
-- **Backend Architecture**: Designing scalable microservices and distributed systems
-- **Cloud Infrastructure**: Building resilient AWS-based solutions with Kubernetes orchestration
-- **Data & Observability**: Leveraging PostgreSQL, MongoDB, and Redis for optimal data management and performance monitoring with Datadog
-- **Agentic AI**: Exploring cutting-edge AI agents for automation and intelligent decision-making
-- **DevOps & Reliability**: Ensuring production excellence through containerization and infrastructure-as-code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,postgres,redis,git,postman,datadog,aws" />
+</p>
 
 ## 🛠️ Tech Stack & Expertise
 
