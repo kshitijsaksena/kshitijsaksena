@@ -6,22 +6,12 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** passionate abou
 
 With deep expertise in backend engineering and cloud infrastructure, I specialize in architecting robust systems while maintaining exceptional performance and reliability. I'm particularly enthusiastic about **Backend Development**, exploring how intelligent agents can revolutionize software automation and problem-solving.
 
-## 💼 Professional Focus
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,postgres,redis,git,postman,datadog,aws" />
-</p>
-
 ## 🛠️ Tech Stack & Expertise
 
-My professional arsenal includes:
-
-- **Languages & Runtime**: JavaScript, Node.js
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **Infrastructure & Orchestration**: Kubernetes, AWS, Docker
-- **Observability & Monitoring**: Datadog
-- **Emerging Tech**: Agentic AI, AI-driven automation
-- **Development Practices**: Microservices, CI/CD, Infrastructure-as-Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,mongodb,postgres,redis,git,postman,docker,kubernetes,aws,linux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=datadog" />
+</p>
 
 ## 📊 GitHub Statistics
 
